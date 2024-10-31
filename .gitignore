@@ -24,7 +24,7 @@ Thumbs.db
 *.sublime-workspace
 *.pydevproject
 *.project
-*.settings/
+
 *.iml
 *.env
 *.ini
